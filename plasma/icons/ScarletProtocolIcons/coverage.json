@@ -1,0 +1,22 @@
+{
+  "version": "6.2.0",
+  "source": "KDE Breeze Icons, local installed source snapshot",
+  "svg_files": 9387,
+  "unique_names": 9286,
+  "categories": {
+    "actions": 4384,
+    "animations": 2,
+    "applets": 350,
+    "apps": 1404,
+    "categories": 34,
+    "devices": 197,
+    "emblems": 116,
+    "emotes": 68,
+    "mimetypes": 1032,
+    "places": 268,
+    "preferences": 444,
+    "status": 1088
+  },
+  "source_broken_links_skipped": 331,
+  "tree_sha256": "c1fd960ddc89db3f2e0ce0e493cb2e740c7c561977465007af5e836ea71f0cf2"
+}

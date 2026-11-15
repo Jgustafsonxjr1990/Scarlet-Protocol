@@ -1,0 +1,15 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "ScarletProtocolGlobal",
+    "Name": "Scarlet Protocol — Blackout",
+    "Description": "Near-black Plasma desktop with scarlet neon accents",
+    "Version": "8.1.0",
+    "License": "CC0-1.0",
+    "Authors": [
+      {
+        "Name": "Scarlet Protocol"
+      }
+    ]
+  }
+}

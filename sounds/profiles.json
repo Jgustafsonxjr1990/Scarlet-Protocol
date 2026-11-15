@@ -1,0 +1,26 @@
+{
+  "protocol": {
+    "title": "Cyber Circuit",
+    "id": "scarlet-protocol-cyber2",
+    "drive": 1.6,
+    "digital": 0.18,
+    "gain": 1.0,
+    "cutoff": 7200
+  },
+  "night": {
+    "title": "Night Shift",
+    "id": "scarlet-protocol-cyber2-night",
+    "drive": 1.2,
+    "digital": 0.055,
+    "gain": 0.56,
+    "cutoff": 4300
+  },
+  "overdrive": {
+    "title": "Overdrive",
+    "id": "scarlet-protocol-cyber2-overdrive",
+    "drive": 2.8,
+    "digital": 0.32,
+    "gain": 1.04,
+    "cutoff": 7600
+  }
+}

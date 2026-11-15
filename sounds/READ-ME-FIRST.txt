@@ -1,0 +1,20 @@
+SCARLET PROTOCOL — CYBER CIRCUIT 2
+
+Extract this ZIP, then double-click Scarlet-Sound-Studio.
+This is the Linux x86-64 executable at the top of the folder.
+
+Choose Cyber Circuit, Night Shift or Overdrive.
+Select a cue and click Preview Selected, or double-click the cue.
+Click Install & Apply Sounds to install and select your edition.
+Restore Previous Sounds reverses the previous sound update.
+
+No terminal command, Python setup or compilation is required.
+Run as your normal desktop user, without sudo.
+If the extractor drops launch permissions, use Properties > Permissions > Is executable.
+
+Open Sound Browser plays the collection in your browser. The native player uses pw-play, paplay or aplay.
+
+Sound playback follows each application's notification settings. Window and button sounds are provided for applications that request them; this package does not add global click/window hooks.
+
+The app verifies saved sound settings. Reopen Sound Theme settings or log in again if an application keeps cached audio.
+Editable source, WAV masters and runtime licenses are included.

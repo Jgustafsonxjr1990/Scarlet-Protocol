@@ -1,0 +1,114 @@
+SCARLET PROTOCOL — BLACKOUT GLOW / COMMAND CENTER v7
+
+INSTALL THE MAIN SETUP
+
+1. Extract this ZIP. Keep its folder structure; there is intentionally no
+   manifest.json at the ZIP root.
+2. In Chrome, open chrome://extensions and turn on Developer mode.
+3. Choose Load unpacked, then select the extracted 01-Theme folder. The native
+   frame and tab surfaces become near-black with static scarlet tab-edge light.
+4. Choose Load unpacked again and select 02-Animated-New-Tab. Open a new tab
+   and, if Chrome asks, choose Keep it.
+5. Only one extension can own the New Tab page. If Clear New Tab is installed,
+   disable it at chrome://extensions to show the Scarlet Command Center. It can
+   remain installed. An older Scarlet New Tab extension must also be disabled.
+6. Scarlet Protocol — Command Center opens its page once when first installed.
+   You can also use its extension icon to open the dashboard directly even if
+   another extension still controls Chrome's automatic New Tab page.
+
+If Chrome says "Manifest file is missing or unreadable", you selected the
+outer Scarlet-Protocol-Animated folder. Select its 01-Theme or
+02-Animated-New-Tab child instead. The two separate ready-to-load ZIPs also
+have manifest.json at their extracted folder roots.
+
+NEW IN V7
+
+Commands (Ctrl+K) searches Chrome actions, your shortcuts and enabled open tabs.
+Use the arrow keys and Enter to choose a result. The Checklist stores up to
+30 tasks locally and supports clearing completed items. Open tabs now has
+Pin/Unpin and Mute/Unmute controls. Customize includes an optional Scarlet
+completion cue for the focus timer, disabled by default. The timer cue plays
+from a bundled local sound while the dashboard is open.
+
+Surfaces have a softer illuminated rim and a subtle pointer-following glow.
+The browser texture has fine light contacts along its scarlet band. The
+included optional KDE decoration matches Scarlet Protocol Plasma release 5.
+
+The Command Center has live CPU usage, memory, a focus timer, scratchpad,
+weather, open-tab switcher, quick Chrome actions, search engine selection,
+shortcuts, and controls for widget visibility/order, layout, corner style,
+three visual presets, clock, animated scarlet edge, motion, scanlines, glow,
+units, and settings export/import.
+Existing Scarlet shortcuts and settings carry over when you update the same
+unpacked extension folder, keeping its extension ID. If you load v7 from a
+different folder, first use Export settings in the old dashboard, then Import
+settings in v7 before disabling the old extension. Data stays local except a
+city search and weather forecast when you enable weather. To use weather,
+choose a city and allow Open-Meteo access.
+To use Open tabs, press Enable and grant tab-title access.
+
+LINUX SENSORS — GPU, CPU TEMPERATURE AND NETWORK TRAFFIC
+
+Chrome supplies CPU usage and system memory without a helper. For the other
+readings, copy the ID shown for 02-Animated-New-Tab on chrome://extensions.
+In a terminal, from the extracted 03-Linux-Sensors directory run:
+
+    python3 install.py YOUR_32_LETTER_EXTENSION_ID
+
+Then on a Scarlet new tab choose Connect sensors. No sudo or extra packages
+are needed. The helper is local and reads available /sys and /proc sensors;
+NVIDIA GPU readings optionally use nvidia-smi. Wi-Fi link rate uses iw if
+installed. Network arrows show actual download/upload traffic, not an
+internet speed test. Unavailable driver data stays blank rather than showing
+a made-up figure. Chrome's CPU/memory and helper figures update while the
+dashboard is visible. If the extension ID changes after reloading unpacked,
+rerun the installer with the new ID. For Chromium rather than Google Chrome,
+pass --browser chromium to the installer.
+
+OPTIONAL DETAILS
+
+05-Web-Edges-Optional: Load unpacked this folder only if you want the moving
+red line and scarlet button hover on ordinary HTTP(S) websites. It applies
+to websites you visit and requires access to those pages. It cannot draw in
+Chrome's internal pages or on the native tab strip. Disable this extension
+to remove the website edge/hover effect.
+
+04-KDE-Window-Controls: The matching Plasma Aurorae decoration has rounded
+dark borders and a scarlet-glowing X. Copy ScarletProtocolGlobal to
+~/.local/share/aurorae/themes/ and select Scarlet Protocol — Blackout in System
+Settings > Colors & Themes > Window Decorations. The separate Plasma Global
+Theme installs and updates this same decoration automatically. In Chrome,
+turn on "Use system title bar and borders" under Appearance if you want
+Chrome to use KDE's controls.
+Selecting a KDE decoration affects windows using that Plasma decoration.
+The Chrome theme alone gives the window-control area a black background but
+cannot specify native close/minimize/maximize hover animation.
+
+06-Clear-New-Tab-Optional contains Scarlet-Protocol-Animated.gif. If you
+prefer to keep Clear New Tab as your active New Tab extension, choose that GIF
+as its wallpaper in Clear New Tab settings. Its dark background and moving
+red bar match this theme, but Clear New Tab cannot run the Command Center
+widgets. Re-enable Clear New Tab and disable 02-Animated-New-Tab to choose
+this alternative.
+
+WHAT MOVES
+
+The New Tab border/sweep, reticle, and optional website edge move in scarlet.
+The native Chrome tab shapes use a bright, static PNG texture clipped to each
+tab. Chrome's theme format cannot adjust the native tab corner radius or
+animate each native tab outline. The rounded changes in v7 apply to the
+Command Center and to the KDE desktop/window decoration. This
+package does not change tab favicons to stand in for that effect. Reduced
+motion pauses decorative animation; the page also has a Pause motion button.
+
+TO REMOVE
+
+Disable 02-Animated-New-Tab and 05-Web-Edges-Optional at chrome://extensions;
+Chrome Settings > Appearance > Reset to default removes the theme. Change
+KDE's window decoration back in System Settings if you selected it.
+
+Source palette: source-palette.txt. Official developer references:
+https://developer.chrome.com/docs/extensions/develop/ui/themes
+https://developer.chrome.com/docs/extensions/reference/api/system/cpu
+https://developer.chrome.com/docs/extensions/develop/concepts/native-messaging
+https://develop.kde.org/docs/plasma/aurorae/

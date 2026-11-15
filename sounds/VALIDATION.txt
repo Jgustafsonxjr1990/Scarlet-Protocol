@@ -1,0 +1,17 @@
+Scarlet Protocol — Cyber Circuit 2
+
+117 distinct original stereo WAV masters: 39 cues in three editions.
+171 Ogg Vorbis theme files decoded with FFmpeg, including aliases/demos.
+WAV: 48 kHz, 16-bit stereo, sub-2-second cues, zero endpoints, controlled
+DC offset and mono correlation. Decoded Ogg peaks stay below 0.75 FS.
+Cyber Circuit peaks: -12.77 to -6.02 dBFS.
+Night Shift peaks: -17.80 to -11.06 dBFS.
+Overdrive peaks: -12.42 to -5.68 dBFS.
+
+Install fixtures pass fresh/repeat/modified-file upgrades, previous audio
+and absent-setting restoration, write/readback failure rollback and
+unrelated-directory protection. Qt GUI tests pass search, group/edition
+selection, preview routing through a real FFmpeg decoder, Apply/Restore,
+launcher copy/permissions and frozen child-library isolation. Native
+packaged GUI startup is tested offscreen. These tests do not establish
+playback on Jon's audio device or live application event routing.

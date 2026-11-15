@@ -1,0 +1,27 @@
+Scarlet Protocol 6.0.0 — validation record
+
+PASS — 153 SVG assets parsed, without duplicate IDs. Native FrameSvg parts,
+metadata/default references, semantic hover colors and both rounded frame
+configurations checked. Wallpaper and preset preview sizes checked.
+
+PASS — Per-user fresh install, repeat, staged v5 upgrade and upgrade repeat.
+Changed existing components are backed up. Previous versioned frames remain.
+
+PASS — Shipped launcher and calendar views rendered with Qt 6.8.3 software
+rendering, without QML warnings. Actual input tests covered tab selection,
+pinning/launch callbacks, search text, Escape, arrow/Enter app navigation,
+month changes, calendar keyboard selection and date-note callback roundtrips.
+The two appearance configuration pages loaded. Leap February, ISO week/year
+boundaries and Sunday/Monday grids checked.
+
+PASS — Panel script simulation using Plasma's documented object API covered
+positions, unrelated applets, favorites, shortcut transfer, repeat/idempotence,
+and retaining originals when a later replacement cannot be created.
+
+The preview PNG and nine-second H.264 MP4 use the shipped native SVG artwork
+and QML views with sample applications and a fixed date/time.
+
+Not run in a live Plasma/KWin session — native app discovery and runner queries,
+actual panel applet replacement, KWin window framing, external calendar data,
+and compositor playback. Date notes are local to the custom clock. This
+package uses Python 3 to install; it has no C++ compilation step.

@@ -1,0 +1,19 @@
+Scarlet Protocol Chrome release 7
+
+Checked manifest syntax, local asset references, JavaScript syntax, unique
+HTML IDs, imported settings compatibility and the Linux helper's Python syntax.
+
+Loaded the dashboard in an isolated Chromium session. Checked checklist
+creation, completion and persistence across reloads; command palette keyboard
+activation and empty results; corner selection; checklist visibility; reduced
+motion; and a 390-pixel viewport with no horizontal overflow.
+
+Pin, mute and tab activation controls passed with a controlled Chrome API
+fixture. The bundled Ogg cue decoded in Chromium. A completing focus timer
+invoked sound when enabled, and simultaneous completion requests produced
+one cue. No page errors were recorded.
+
+The native Chrome theme PNGs were generated and reference-checked.
+Actual installed native frame/tab clipping and real hardware sensors were
+not checked on Jon's laptop. The dashboard browser check used an HTTP test
+origin, with API fixtures for the extension-only tab controls.

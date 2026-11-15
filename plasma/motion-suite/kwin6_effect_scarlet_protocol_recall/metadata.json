@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "KWin/Effect",
+  "KPlugin": {
+    "Id": "kwin6_effect_scarlet_protocol_recall",
+    "Name": "Scarlet Protocol — Recall",
+    "Description": "Pull minimized windows toward their taskbar icon with a scarlet energy slash",
+    "Category": "Appearance",
+    "Icon": "preferences-system-windows-effect-squash",
+    "License": "MIT",
+    "Version": "1.0.0",
+    "EnabledByDefault": false,
+    "Authors": [{"Name": "Scarlet Protocol"}]
+  },
+  "X-KDE-Ordering": 60,
+  "X-KWin-Exclusive-Category": "minimize",
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js"
+}

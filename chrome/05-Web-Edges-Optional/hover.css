@@ -1,0 +1,12 @@
+:is(button,[role="button"],input[type="button"],input[type="submit"],input[type="reset"]):hover{
+  outline:1px solid #e4195199!important;
+  filter:drop-shadow(0 0 6px #ff005177)!important;
+  transition:filter .18s ease,outline-color .18s ease!important;
+}
+:is(button,[role="button"],input[type="button"],input[type="submit"],input[type="reset"]):focus-visible{
+  outline:2px solid #ff0051!important;
+  outline-offset:2px!important;
+}
+@media(prefers-reduced-motion:reduce){
+  :is(button,[role="button"],input[type="button"],input[type="submit"],input[type="reset"]):hover{transition:none!important}
+}

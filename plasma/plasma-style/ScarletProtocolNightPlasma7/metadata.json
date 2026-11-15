@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "ScarletProtocolNightPlasma7",
+    "Name": "Scarlet Protocol — Night Shift 7",
+    "Description": "Near-black panels and widgets with scarlet accents and hover glow",
+    "Version": "7.0.0",
+    "License": "CC0-1.0",
+    "Authors": [
+      {
+        "Name": "Scarlet Protocol"
+      }
+    ]
+  }
+}

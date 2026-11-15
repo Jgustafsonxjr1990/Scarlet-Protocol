@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "ScarletProtocolPlasma6",
+    "Name": "Scarlet Protocol — Blackout 6",
+    "Description": "Near-black panels and widgets with scarlet accents and hover glow",
+    "Version": "6.1.0",
+    "License": "CC0-1.0",
+    "Authors": [
+      {
+        "Name": "Scarlet Protocol"
+      }
+    ]
+  }
+}

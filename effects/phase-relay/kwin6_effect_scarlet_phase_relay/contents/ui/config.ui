@@ -1,0 +1,169 @@
+<ui version="4.0">
+  <class>ScarletPhaseRelayConfig</class>
+  <widget class="QWidget" name="ScarletPhaseRelayConfig">
+    <layout class="QFormLayout" name="formLayout">
+      <item row="0" column="0">
+        <widget class="QLabel" name="label_Duration">
+          <property name="text">
+            <string>Transition duration (ms)</string>
+          </property>
+        </widget>
+      </item>
+      <item row="0" column="1">
+        <widget class="QSpinBox" name="kcfg_Duration">
+          <property name="minimum">
+            <number>120</number>
+          </property>
+          <property name="maximum">
+            <number>900</number>
+          </property>
+          <property name="value">
+            <number>380</number>
+          </property>
+        </widget>
+      </item>
+      <item row="1" column="0">
+        <widget class="QLabel" name="label_Strength">
+          <property name="text">
+            <string>Effect strength (%)</string>
+          </property>
+        </widget>
+      </item>
+      <item row="1" column="1">
+        <widget class="QSpinBox" name="kcfg_Strength">
+          <property name="minimum">
+            <number>0</number>
+          </property>
+          <property name="maximum">
+            <number>100</number>
+          </property>
+          <property name="value">
+            <number>85</number>
+          </property>
+        </widget>
+      </item>
+      <item row="2" column="0">
+        <widget class="QLabel" name="label_GlitchOffset">
+          <property name="text">
+            <string>Image tear width (px)</string>
+          </property>
+        </widget>
+      </item>
+      <item row="2" column="1">
+        <widget class="QSpinBox" name="kcfg_GlitchOffset">
+          <property name="minimum">
+            <number>0</number>
+          </property>
+          <property name="maximum">
+            <number>32</number>
+          </property>
+          <property name="value">
+            <number>14</number>
+          </property>
+        </widget>
+      </item>
+      <item row="3" column="0">
+        <widget class="QLabel" name="label_BandHeight">
+          <property name="text">
+            <string>Glitch band height (px)</string>
+          </property>
+        </widget>
+      </item>
+      <item row="3" column="1">
+        <widget class="QSpinBox" name="kcfg_BandHeight">
+          <property name="minimum">
+            <number>4</number>
+          </property>
+          <property name="maximum">
+            <number>40</number>
+          </property>
+          <property name="value">
+            <number>14</number>
+          </property>
+        </widget>
+      </item>
+      <item row="4" column="0">
+        <widget class="QLabel" name="label_ScanWidth">
+          <property name="text">
+            <string>Scarlet beam width (px)</string>
+          </property>
+        </widget>
+      </item>
+      <item row="4" column="1">
+        <widget class="QSpinBox" name="kcfg_ScanWidth">
+          <property name="minimum">
+            <number>8</number>
+          </property>
+          <property name="maximum">
+            <number>80</number>
+          </property>
+          <property name="value">
+            <number>32</number>
+          </property>
+        </widget>
+      </item>
+      <item row="5" column="0">
+        <widget class="QLabel" name="label_Red">
+          <property name="text">
+            <string>Scarlet color — red</string>
+          </property>
+        </widget>
+      </item>
+      <item row="5" column="1">
+        <widget class="QSpinBox" name="kcfg_Red">
+          <property name="minimum">
+            <number>0</number>
+          </property>
+          <property name="maximum">
+            <number>255</number>
+          </property>
+          <property name="value">
+            <number>255</number>
+          </property>
+        </widget>
+      </item>
+      <item row="6" column="0">
+        <widget class="QLabel" name="label_Green">
+          <property name="text">
+            <string>Scarlet color — green</string>
+          </property>
+        </widget>
+      </item>
+      <item row="6" column="1">
+        <widget class="QSpinBox" name="kcfg_Green">
+          <property name="minimum">
+            <number>0</number>
+          </property>
+          <property name="maximum">
+            <number>255</number>
+          </property>
+          <property name="value">
+            <number>32</number>
+          </property>
+        </widget>
+      </item>
+      <item row="7" column="0">
+        <widget class="QLabel" name="label_Blue">
+          <property name="text">
+            <string>Scarlet color — blue</string>
+          </property>
+        </widget>
+      </item>
+      <item row="7" column="1">
+        <widget class="QSpinBox" name="kcfg_Blue">
+          <property name="minimum">
+            <number>0</number>
+          </property>
+          <property name="maximum">
+            <number>255</number>
+          </property>
+          <property name="value">
+            <number>86</number>
+          </property>
+        </widget>
+      </item>
+    </layout>
+  </widget>
+  <resources />
+  <connections />
+</ui>

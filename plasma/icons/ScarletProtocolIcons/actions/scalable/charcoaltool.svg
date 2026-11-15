@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22 22" id="svg2" version="1.1" ns1:version="0.91 r13725" ns2:docname="charcoaltool.svg" color="#ff668b">
+  <metadata id="metadata10">
+    <RDF>
+      <Work rdf:about="">
+        <format>image/svg+xml</format>
+        <type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </Work>
+    </RDF>
+  </metadata>
+  <namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" ns1:pageopacity="0" ns1:pageshadow="2" ns1:window-width="1360" ns1:window-height="708" id="namedview8" showgrid="false" ns1:zoom="21.454545" ns1:cx="8.8201203" ns1:cy="9.6895245" ns1:window-x="0" ns1:window-y="0" ns1:window-maximized="1" ns1:current-layer="svg2" />
+  <defs id="defs3051">
+    <linearGradient ns1:collect="always" id="linearGradient4153">
+      <stop style="stop-color:#ff668b;stop-opacity:0.45882353" offset="0" id="stop4155" />
+      <stop style="stop-color:#ff668b;stop-opacity:0.05294118" offset="1" id="stop4157" />
+    </linearGradient>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color: #ff668b; } </style>
+    <linearGradient ns1:collect="always" xlink:href="#linearGradient4153" id="linearGradient4159" x1="8.6864405" y1="9.2288132" x2="12.661017" y2="13.144068" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path style="fill:currentColor;fill-opacity:1;stroke:none" d="m 15.40625,3 -4,4 L 10.3125,8.09375 7,11.375 7,11.40625 6.3125,12.09375 3,15.375 3,17 l 2,2 1.625,0 3.96875,-4 1.125,-1.125 L 15,10.59375 15.71875,9.875 19,6.59375 19,5 17,3 15.40625,3 Z" class="ColorScheme-Text" id="path6" />
+  <path ns1:connector-curvature="0" style="color:#27141f;fill:url(#linearGradient4159);fill-opacity:1;stroke:none" d="m 15.40625,3 -4,4 L 10.3125,8.09375 7,11.375 7,11.40625 6.3125,12.09375 3,15.375 3,17 l 2,2 1.625,0 3.96875,-4 1.125,-1.125 L 15,10.59375 15.71875,9.875 19,6.59375 19,5 17,3 15.40625,3 Z" id="path6-3" />
+</svg>

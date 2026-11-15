@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="144" viewBox="0 0 360 144">
+<g id="white-notes" transform="translate(0,0)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#CCC0C5" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+<g id="black-notes" transform="translate(72,0)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#1B141B" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+<g id="red-notes" transform="translate(144,0)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#6E1D36" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+<g id="orange-notes" transform="translate(216,0)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#6A3627" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+<g id="yellow-notes" transform="translate(288,0)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#6D592C" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+<g id="green-notes" transform="translate(0,72)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#285847" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+<g id="blue-notes" transform="translate(72,72)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#273E5E" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+<g id="pink-notes" transform="translate(144,72)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#66334E" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+<g id="translucent-notes" transform="translate(216,72)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#321621" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+<g id="translucent-light-notes" transform="translate(288,72)"><rect x="2" y="2" width="64" height="64" rx="14" fill="#694051" stroke="#E41951" stroke-width="1.4"/><path d="M12 17h30M12 24h42" fill="none" stroke="#E41951" opacity=".45"/></g>
+</svg>

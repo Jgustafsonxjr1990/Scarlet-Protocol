@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "Scarlet Protocol — Command Center",
+  "version": "7.0.0",
+  "description": "Scarlet neon dashboard with local CPU/memory, weather, open tabs, shortcuts, notes, focus timer and optional Linux sensors.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Open Scarlet Protocol Command Center",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "permissions": [
+    "storage",
+    "system.cpu",
+    "system.memory"
+  ],
+  "optional_permissions": [
+    "tabs",
+    "nativeMessaging"
+  ],
+  "optional_host_permissions": [
+    "https://api.open-meteo.com/*",
+    "https://geocoding-api.open-meteo.com/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'none'; base-uri 'none'"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}

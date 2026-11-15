@@ -1,0 +1,13 @@
+{
+  "KPackageStructure": "KWin/WindowSwitcher",
+  "KPlugin": {
+    "Id": "ScarletProtocolDeck",
+    "Name": "Scarlet Protocol — Window Deck",
+    "Description": "Rounded live previews with a moving scarlet selection frame",
+    "Icon": "preferences-system-windows-switcher-thumbnail-grid",
+    "Version": "1.0.0",
+    "License": "CC0-1.0",
+    "Authors": [{"Name": "Scarlet Protocol"}]
+  },
+  "X-Plasma-API": "declarativeappletscript"
+}

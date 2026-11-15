@@ -1,0 +1,22 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "org.scarletprotocol.clock",
+    "Name": "Scarlet Protocol Clock",
+    "Description": "A detailed clock, month calendar and local notes by date",
+    "Icon": "preferences-system-time",
+    "Version": "8.1.0",
+    "License": "GPL-2.0-or-later",
+    "Category": "Date and Time",
+    "Authors": [
+      {
+        "Name": "Scarlet Protocol"
+      }
+    ]
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-Provides": [
+    "org.kde.plasma.time",
+    "org.kde.plasma.date"
+  ]
+}

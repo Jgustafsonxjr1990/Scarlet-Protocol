@@ -1,0 +1,15 @@
+SCARLET PROTOCOL 8.1 — CLASSIC SLITS
+
+1. Extract the ZIP and double-click Scarlet-Desktop-Studio.
+2. Keep Apply the restored Classic Slits window frame checked.
+3. Keep Reload Plasma panels after applying checked to load the launcher repair.
+4. Click Upgrade & Apply Desktop.
+
+The executable is Linux x86-64, at the top of this folder. It bundles its graphical runtime and theme files. No Python setup or compilation is required. Run as your normal desktop user, without sudo.
+
+This update restores the fine straight cuts seen around the Status and Notifications header, preserving the rounded glow and current window controls. It also corrects the launcher's background-hint enum error and the matching clock setting. The app refreshes KDE's menu cache when installing its shortcut.
+
+Panel reload uses the existing active Plasma user service and keeps application windows open. If it is unavailable, sign out and back in once. Check Active Theme and Restore are available.
+
+If your extractor drops executable permissions, use Properties > Permissions > Is executable.
+Editable source, artwork and runtime license notices are included. Previews are component renders.

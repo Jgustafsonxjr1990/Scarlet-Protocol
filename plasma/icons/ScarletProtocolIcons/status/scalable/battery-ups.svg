@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" version="1.1" id="svg6" ns1:docname="battery-ups.svg" ns2:version="1.2.2 (b0a8486541, 2022-12-01)" color="#ff668b">
+  <defs id="defs10" />
+  <namedview id="namedview8" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="1" ns2:cx="205" ns2:cy="-151" ns2:window-width="1920" ns2:window-height="1011" ns2:window-x="0" ns2:window-y="0" ns2:window-maximized="1" ns2:current-layer="svg6" />
+  <style type="text/css" id="current-color-scheme">.ColorScheme-Background { color: #27141f; } .ColorScheme-ButtonText { color: #27141f; } .ColorScheme-Text { color: #ff668b; } </style>
+  <g id="battery-ups" transform="translate(-182.53572,-428.50504)">
+    <rect y="428.50504" x="182.53572" height="31.999998" width="31.999998" id="rect4447" style="opacity:1;fill:none;fill-opacity:1;stroke:none" />
+    <path ns2:connector-curvature="0" id="rect4411" d="m 189.53572,432.50504 v 24 h 18 v -24 z m 1,1 h 16 v 22 h -16 z m 8,2 -3,7 h 3 v 4 l 3,-7 h -3 z m -6,15 v 3 h 1 v -3 z m 2,0 v 3 h 1 v -3 z m 2,0 v 3 h 1 v -3 z m 2,0 v 3 h 1 v -3 z m 4.5,0 c -0.82843,0 -1.5,0.67157 -1.5,1.5 0,0.82843 0.67157,1.5 1.5,1.5 0.82843,0 1.5,-0.67157 1.5,-1.5 0,-0.82843 -0.67157,-1.5 -1.5,-1.5 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text" ns1:nodetypes="cccccccccccccccccccccccccccccccccccccsssss" />
+  </g>
+</svg>

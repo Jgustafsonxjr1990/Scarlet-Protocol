@@ -1,0 +1,12 @@
+{
+  "KPackageStructure": "Wallpaper/Images",
+  "KPlugin": {
+    "Id": "ScarletProtocolNoirWall",
+    "Name": "Scarlet Protocol — Noir",
+    "Description": "Quiet near-black grid with soft scarlet signal arcs",
+    "Version": "2.0.0",
+    "License": "CC0-1.0",
+    "Authors": [{"Name": "Scarlet Protocol"}]
+  },
+  "X-KDE-PlasmaImageWallpaper-AccentColor": "#e41951"
+}

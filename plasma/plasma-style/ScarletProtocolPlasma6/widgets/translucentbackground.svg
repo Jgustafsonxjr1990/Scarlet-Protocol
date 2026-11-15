@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="48" viewBox="0 0 280 48">
+<g id="topleft" transform="translate(0,0)"><path d="M 16 0 L 16 16 L 0 16 A 16 16 0 0 1 16 0 Z" fill="#171318"/><path d="M 0 16 A 16 16 0 0 1 16 0" fill="none" stroke="#802345" stroke-width="3" opacity=".25"/><path d="M 0 16 A 16 16 0 0 1 16 0" fill="none" stroke="#802345" stroke-width="1.6"/></g>
+<g id="top" transform="translate(16,0)"><path d="M 0 0 H 16 V 16 H 0 Z" fill="#171318"/><path d="M 0 .7 H 16" stroke="#802345" stroke-width="1.4"/><path d="M 0 2 H 16" stroke="#802345" stroke-width="2" opacity=".14"/></g>
+<g id="topright" transform="translate(32,0)"><path d="M 0 0 L 0 16 L 16 16 A 16 16 0 0 0 0 0 Z" fill="#171318"/><path d="M 0 0 A 16 16 0 0 1 16 16" fill="none" stroke="#802345" stroke-width="3" opacity=".25"/><path d="M 0 0 A 16 16 0 0 1 16 16" fill="none" stroke="#802345" stroke-width="1.6"/></g>
+<g id="left" transform="translate(0,16)"><path d="M 0 0 H 16 V 8 H 0 Z" fill="#171318"/><path d="M .7 0 V 8" stroke="#802345" stroke-width="1.4"/></g>
+<g id="center" transform="translate(16,16)"><path d="M 0 0 H 16 V 8 H 0 Z" fill="#171318"/></g>
+<g id="right" transform="translate(32,16)"><path d="M 0 0 H 16 V 8 H 0 Z" fill="#171318"/><path d="M 15.3 0 V 8" stroke="#802345" stroke-width="1.4"/></g>
+<g id="bottomleft" transform="translate(0,24)"><path d="M 0 0 L 16 0 L 16 16 A 16 16 0 0 1 0 0 Z" fill="#171318"/><path d="M 0 0 A 16 16 0 0 0 16 16" fill="none" stroke="#802345" stroke-width="3" opacity=".25"/><path d="M 0 0 A 16 16 0 0 0 16 16" fill="none" stroke="#802345" stroke-width="1.6"/></g>
+<g id="bottom" transform="translate(16,24)"><path d="M 0 0 H 16 V 16 H 0 Z" fill="#171318"/><path d="M 0 15.3 H 16" stroke="#802345" stroke-width="1.4"/><path d="M 0 14 H 16" stroke="#802345" stroke-width="2" opacity=".14"/></g>
+<g id="bottomright" transform="translate(32,24)"><path d="M 0 0 L 16 0 A 16 16 0 0 1 0 16 Z" fill="#171318"/><path d="M 16 0 A 16 16 0 0 1 0 16" fill="none" stroke="#802345" stroke-width="3" opacity=".25"/><path d="M 16 0 A 16 16 0 0 1 0 16" fill="none" stroke="#802345" stroke-width="1.6"/></g>
+</svg>

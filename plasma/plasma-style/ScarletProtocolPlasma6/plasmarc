@@ -1,0 +1,11 @@
+[Settings]
+FallbackTheme=default
+
+[BlurBehindEffect]
+enabled=false
+
+[Wallpaper]
+defaultWallpaperTheme=ScarletProtocolWall
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1200

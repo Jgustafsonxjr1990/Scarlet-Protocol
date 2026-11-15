@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="28" viewBox="0 0 280 28">
+<g id="topleft" transform="translate(0,0)"><path d="M 8 0 L 8 8 L 0 8 A 8 8 0 0 1 8 0 Z" fill="#25121F"/><path d="M 0 8 A 8 8 0 0 1 8 0" fill="none" stroke="#FF0051" stroke-width="3" opacity=".25"/><path d="M 0 8 A 8 8 0 0 1 8 0" fill="none" stroke="#FF0051" stroke-width="1.6"/></g>
+<g id="top" transform="translate(8,0)"><path d="M 0 0 H 32 V 8 H 0 Z" fill="#25121F"/><path d="M 0 .7 H 32" stroke="#FF0051" stroke-width="1.4"/><path d="M 0 2 H 32" stroke="#FF0051" stroke-width="2" opacity=".14"/></g>
+<g id="topright" transform="translate(40,0)"><path d="M 0 0 L 0 8 L 8 8 A 8 8 0 0 0 0 0 Z" fill="#25121F"/><path d="M 0 0 A 8 8 0 0 1 8 8" fill="none" stroke="#FF0051" stroke-width="3" opacity=".25"/><path d="M 0 0 A 8 8 0 0 1 8 8" fill="none" stroke="#FF0051" stroke-width="1.6"/></g>
+<g id="left" transform="translate(0,8)"><path d="M 0 0 H 8 V 4 H 0 Z" fill="#25121F"/><path d="M .7 0 V 4" stroke="#FF0051" stroke-width="1.4"/></g>
+<g id="center" transform="translate(8,8)"><path d="M 0 0 H 32 V 4 H 0 Z" fill="#25121F"/></g>
+<g id="right" transform="translate(40,8)"><path d="M 0 0 H 8 V 4 H 0 Z" fill="#25121F"/><path d="M 7.3 0 V 4" stroke="#FF0051" stroke-width="1.4"/></g>
+<g id="bottomleft" transform="translate(0,12)"><path d="M 0 0 L 8 0 L 8 8 A 8 8 0 0 1 0 0 Z" fill="#25121F"/><path d="M 0 0 A 8 8 0 0 0 8 8" fill="none" stroke="#FF0051" stroke-width="3" opacity=".25"/><path d="M 0 0 A 8 8 0 0 0 8 8" fill="none" stroke="#FF0051" stroke-width="1.6"/></g>
+<g id="bottom" transform="translate(8,12)"><path d="M 0 0 H 32 V 8 H 0 Z" fill="#25121F"/><path d="M 0 7.3 H 32" stroke="#FF0051" stroke-width="1.4"/><path d="M 0 6 H 32" stroke="#FF0051" stroke-width="2" opacity=".14"/></g>
+<g id="bottomright" transform="translate(40,12)"><path d="M 0 0 L 8 0 A 8 8 0 0 1 0 8 Z" fill="#25121F"/><path d="M 8 0 A 8 8 0 0 1 0 8" fill="none" stroke="#FF0051" stroke-width="3" opacity=".25"/><path d="M 8 0 A 8 8 0 0 1 0 8" fill="none" stroke="#FF0051" stroke-width="1.6"/></g>
+</svg>

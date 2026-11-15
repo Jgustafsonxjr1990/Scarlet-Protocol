@@ -1,0 +1,236 @@
+[
+  {
+    "name": "desktop-login",
+    "title": "Startup",
+    "category": "Notification",
+    "duration": 2.67
+  },
+  {
+    "name": "desktop-logout",
+    "title": "Logout",
+    "category": "Notification",
+    "duration": 1.4
+  },
+  {
+    "name": "system-shutdown",
+    "title": "Shutdown",
+    "category": "Notification",
+    "duration": 1.58
+  },
+  {
+    "name": "service-login",
+    "title": "Sign in",
+    "category": "Notification",
+    "duration": 0.46
+  },
+  {
+    "name": "service-logout",
+    "title": "Sign out",
+    "category": "Notification",
+    "duration": 0.4
+  },
+  {
+    "name": "button-pressed",
+    "title": "Soft click",
+    "category": "Support",
+    "duration": 0.065
+  },
+  {
+    "name": "button-released",
+    "title": "Release",
+    "category": "Support",
+    "duration": 0.06
+  },
+  {
+    "name": "button-pressed-modifier",
+    "title": "Modifier click",
+    "category": "Support",
+    "duration": 0.075
+  },
+  {
+    "name": "menu-click",
+    "title": "Menu selection",
+    "category": "Support",
+    "duration": 0.1
+  },
+  {
+    "name": "menu-popup",
+    "title": "Menu open",
+    "category": "Support",
+    "duration": 0.175
+  },
+  {
+    "name": "window-open",
+    "title": "Window open",
+    "category": "Support",
+    "duration": 0.245
+  },
+  {
+    "name": "window-close",
+    "title": "Window close",
+    "category": "Support",
+    "duration": 0.225
+  },
+  {
+    "name": "window-minimized",
+    "title": "Minimize",
+    "category": "Support",
+    "duration": 0.27
+  },
+  {
+    "name": "window-maximized",
+    "title": "Maximize",
+    "category": "Support",
+    "duration": 0.28
+  },
+  {
+    "name": "window-unminimized",
+    "title": "Restore",
+    "category": "Support",
+    "duration": 0.25
+  },
+  {
+    "name": "audio-volume-change",
+    "title": "Volume feedback",
+    "category": "Support",
+    "duration": 0.13
+  },
+  {
+    "name": "dialog-information",
+    "title": "Information",
+    "category": "Notification",
+    "duration": 0.345
+  },
+  {
+    "name": "dialog-question",
+    "title": "Question",
+    "category": "Notification",
+    "duration": 0.43
+  },
+  {
+    "name": "dialog-warning",
+    "title": "Warning",
+    "category": "Alert",
+    "duration": 0.46
+  },
+  {
+    "name": "dialog-warning-auth",
+    "title": "Authentication",
+    "category": "Alert",
+    "duration": 0.51
+  },
+  {
+    "name": "dialog-error",
+    "title": "Error",
+    "category": "Alert",
+    "duration": 0.52
+  },
+  {
+    "name": "dialog-error-serious",
+    "title": "Critical error",
+    "category": "Alert",
+    "duration": 0.88
+  },
+  {
+    "name": "message",
+    "title": "Notification",
+    "category": "Notification",
+    "duration": 0.39
+  },
+  {
+    "name": "message-new-instant",
+    "title": "Incoming message",
+    "category": "Notification",
+    "duration": 0.265
+  },
+  {
+    "name": "message-new-email",
+    "title": "New mail",
+    "category": "Notification",
+    "duration": 0.58
+  },
+  {
+    "name": "message-sent-instant",
+    "title": "Message sent",
+    "category": "Notification",
+    "duration": 0.23
+  },
+  {
+    "name": "message-attention",
+    "title": "Attention",
+    "category": "Alert",
+    "duration": 0.42
+  },
+  {
+    "name": "power-plug",
+    "title": "Charger connected",
+    "category": "Notification",
+    "duration": 0.38
+  },
+  {
+    "name": "power-unplug",
+    "title": "Charger disconnected",
+    "category": "Notification",
+    "duration": 0.34
+  },
+  {
+    "name": "battery-low",
+    "title": "Battery low",
+    "category": "Alert",
+    "duration": 0.47
+  },
+  {
+    "name": "battery-caution",
+    "title": "Battery critical",
+    "category": "Alert",
+    "duration": 0.76
+  },
+  {
+    "name": "device-added",
+    "title": "Device connected",
+    "category": "Notification",
+    "duration": 0.265
+  },
+  {
+    "name": "device-removed",
+    "title": "Device removed",
+    "category": "Notification",
+    "duration": 0.255
+  },
+  {
+    "name": "network-connectivity-established",
+    "title": "Network connected",
+    "category": "Notification",
+    "duration": 0.35
+  },
+  {
+    "name": "network-connectivity-lost",
+    "title": "Network disconnected",
+    "category": "Alert",
+    "duration": 0.42
+  },
+  {
+    "name": "outcome-success",
+    "title": "Completed",
+    "category": "Notification",
+    "duration": 0.66
+  },
+  {
+    "name": "outcome-failure",
+    "title": "Failed",
+    "category": "Alert",
+    "duration": 0.54
+  },
+  {
+    "name": "alarm-clock-elapsed",
+    "title": "Timer complete",
+    "category": "Alert",
+    "duration": 1.27
+  },
+  {
+    "name": "trash-empty",
+    "title": "Trash emptied",
+    "category": "Support",
+    "duration": 0.31
+  }
+]

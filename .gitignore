@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build-plasma6*/
+build/
+.venv/
+venv/
+plasma/Scarlet-Desktop-Studio
+sounds/Scarlet-Sound-Studio
+plasma/desktop/desktop-studio-payload.zip
+plasma/desktop/payload.sha256

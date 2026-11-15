@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+<g id="add-normal" transform="translate(0,0)"><rect x="1" y="1" width="18" height="18" rx="8" fill="#21141C" stroke="#A1264A"/><path d="M9 5v8M5 9h8" fill="none" stroke="#E8DCE0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="add-hover" transform="translate(26,0)"><rect x="1" y="1" width="18" height="18" rx="8" fill="#57162C" stroke="#FF0051"/><path d="M9 5v8M5 9h8" fill="none" stroke="#FF0051" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="add-pressed" transform="translate(52,0)"><rect x="1" y="1" width="18" height="18" rx="8" fill="#8A1639" stroke="#FF0051"/><path d="M9 5v8M5 9h8" fill="none" stroke="#FF0051" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="remove-normal" transform="translate(0,26)"><rect x="1" y="1" width="18" height="18" rx="8" fill="#21141C" stroke="#A1264A"/><path d="M5 9h8" fill="none" stroke="#E8DCE0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="remove-hover" transform="translate(26,26)"><rect x="1" y="1" width="18" height="18" rx="8" fill="#57162C" stroke="#FF0051"/><path d="M5 9h8" fill="none" stroke="#FF0051" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="remove-pressed" transform="translate(52,26)"><rect x="1" y="1" width="18" height="18" rx="8" fill="#8A1639" stroke="#FF0051"/><path d="M5 9h8" fill="none" stroke="#FF0051" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="open-normal" transform="translate(0,52)"><rect x="1" y="1" width="18" height="18" rx="8" fill="#21141C" stroke="#A1264A"/><path d="M5 7l4 4 4-4" fill="none" stroke="#E8DCE0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="open-hover" transform="translate(26,52)"><rect x="1" y="1" width="18" height="18" rx="8" fill="#57162C" stroke="#FF0051"/><path d="M5 7l4 4 4-4" fill="none" stroke="#FF0051" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="open-pressed" transform="translate(52,52)"><rect x="1" y="1" width="18" height="18" rx="8" fill="#8A1639" stroke="#FF0051"/><path d="M5 7l4 4 4-4" fill="none" stroke="#FF0051" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

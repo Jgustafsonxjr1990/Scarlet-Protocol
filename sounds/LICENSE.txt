@@ -1,0 +1,4 @@
+Scarlet Protocol sound collection
+All original synthesized sound recordings and the synthesis code in this package
+are dedicated to the public domain under CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/

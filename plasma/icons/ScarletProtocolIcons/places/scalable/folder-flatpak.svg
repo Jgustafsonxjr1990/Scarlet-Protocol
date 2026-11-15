@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 32 32" version="1.1" id="svg14" ns1:docname="folder-flatpak.svg" ns2:version="0.92.5 (2060ec1f9f, 2020-04-08)" color="#ff466f">
+  <metadata id="metadata18">
+    <RDF>
+      <Work rdf:about="">
+        <format>image/svg+xml</format>
+        <type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <title />
+      </Work>
+    </RDF>
+  </metadata>
+  <namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" ns2:pageopacity="0" ns2:pageshadow="2" ns2:window-width="2552" ns2:window-height="1387" id="namedview16" showgrid="true" ns2:zoom="45.254834" ns2:cx="18.203417" ns2:cy="14.567524" ns2:window-x="0" ns2:window-y="22" ns2:window-maximized="1" ns2:current-layer="svg14">
+    <grid type="xygrid" id="grid868" />
+  </namedview>
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Highlight { color: #c22551; } .ColorScheme-Text { color: #f7cfdd; } </style>
+  </defs>
+  <path style="fill:currentColor;fill-opacity:1;stroke:none" d="M 2 3 L 2 10 L 1 10 L 1 29 L 12 29 L 13 29 L 31 29 L 31 8 L 30 8 L 30 5 L 16 5 L 14 3 L 2 3 z " class="ColorScheme-Highlight" id="path4" />
+  <path style="fill-opacity:0.33;fill-rule:evenodd" d="m 2,3 0,7 9,0 L 13,8 30,8 30,5 16,5 14,3 2,3 Z" id="path6" />
+  <path style="fill:#f7cfdd;fill-opacity:0.2;fill-rule:evenodd" d="M 14 3 L 15 6 L 30 6 L 30 5 L 16 5 L 14 3 z M 13 8 L 11 10 L 1 10 L 1 11 L 12 11 L 13 8 z " id="path8" />
+  <path style="fill-opacity:0.2;fill-rule:evenodd" d="M 13 8 L 11 9 L 2 9 L 2 10 L 11 10 L 13 8 z M 1 28 L 1 29 L 31 29 L 31 28 L 1 28 z " class="ColorScheme-Text" id="path10" />
+  <path ns2:connector-curvature="0" style="color:#27141f;fill:currentColor;fill-opacity:0.6;stroke:none" d="m 16,12 -6,2 v 8 l 6,2 6,-2 v -8 z m 0,1 v 2.836291 L 15.5,16.1 11,14.56 Z m 5,2 v 6.4 L 16,23 v -6 z" class="ColorScheme-Text" id="path12-5" ns1:nodetypes="ccccccccccccccccc" />
+</svg>

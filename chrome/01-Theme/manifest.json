@@ -1,0 +1,172 @@
+{
+  "manifest_version": 3,
+  "name": "Cyberpunk Scarlet Protocol — Blackout Glow",
+  "version": "7.0.0",
+  "description": "Near-black browser frame, scarlet tab-edge glow and red browser controls.",
+  "theme": {
+    "colors": {
+      "frame": [
+        16,
+        17,
+        22
+      ],
+      "frame_inactive": [
+        16,
+        17,
+        22
+      ],
+      "frame_incognito": [
+        16,
+        17,
+        22
+      ],
+      "frame_incognito_inactive": [
+        16,
+        17,
+        22
+      ],
+      "toolbar": [
+        16,
+        17,
+        22
+      ],
+      "toolbar_text": [
+        228,
+        25,
+        81
+      ],
+      "toolbar_button_icon": [
+        255,
+        0,
+        81
+      ],
+      "background_tab": [
+        16,
+        17,
+        22
+      ],
+      "background_tab_inactive": [
+        16,
+        17,
+        22
+      ],
+      "background_tab_incognito": [
+        16,
+        17,
+        22
+      ],
+      "background_tab_incognito_inactive": [
+        16,
+        17,
+        22
+      ],
+      "tab_text": [
+        228,
+        25,
+        81
+      ],
+      "tab_background_text": [
+        228,
+        25,
+        81
+      ],
+      "tab_background_text_inactive": [
+        228,
+        25,
+        81
+      ],
+      "tab_background_text_incognito": [
+        228,
+        25,
+        81
+      ],
+      "tab_background_text_incognito_inactive": [
+        228,
+        25,
+        81
+      ],
+      "bookmark_text": [
+        228,
+        25,
+        81
+      ],
+      "button_background": [
+        16,
+        17,
+        22
+      ],
+      "omnibox_background": [
+        16,
+        17,
+        22
+      ],
+      "omnibox_text": [
+        228,
+        25,
+        81
+      ],
+      "ntp_background": [
+        16,
+        17,
+        22
+      ],
+      "ntp_text": [
+        228,
+        25,
+        81
+      ],
+      "ntp_link": [
+        255,
+        0,
+        81
+      ],
+      "ntp_header": [
+        255,
+        0,
+        81
+      ]
+    },
+    "images": {
+      "theme_frame": "images/frame.png",
+      "theme_frame_inactive": "images/frame.png",
+      "theme_frame_incognito": "images/frame.png",
+      "theme_frame_incognito_inactive": "images/frame.png",
+      "theme_toolbar": "images/toolbar.png",
+      "theme_tab_background": "images/tabs.png",
+      "theme_tab_background_inactive": "images/tabs.png",
+      "theme_tab_background_incognito": "images/tabs.png",
+      "theme_tab_background_incognito_inactive": "images/tabs.png",
+      "theme_window_control_background": "images/window-controls.png"
+    },
+    "tints": {
+      "frame": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_inactive": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_incognito": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_incognito_inactive": [
+        -1,
+        -1,
+        -1
+      ],
+      "background_tab": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}

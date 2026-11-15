@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="24" viewBox="0 0 104 24">
+<path id="up-arrow" transform="translate(0,0)" d="M6 16L12 8L18 16" fill="none" stroke="#E41951" stroke-width="2.5" stroke-linejoin="round"/>
+<path id="right-arrow" transform="translate(26,0)" d="M8 6L16 12L8 18" fill="none" stroke="#E41951" stroke-width="2.5" stroke-linejoin="round"/>
+<path id="down-arrow" transform="translate(52,0)" d="M6 8L12 16L18 8" fill="none" stroke="#E41951" stroke-width="2.5" stroke-linejoin="round"/>
+<path id="left-arrow" transform="translate(78,0)" d="M16 6L8 12L16 18" fill="none" stroke="#E41951" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

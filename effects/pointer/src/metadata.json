@@ -1,0 +1,13 @@
+{
+  "KPlugin": {
+    "Id": "scarletpointer",
+    "Name": "Scarlet Protocol Pointer",
+    "Description": "Animated click signatures and a fading trail for your pointer",
+    "Icon": "input-mouse",
+    "Category": "Appearance",
+    "Version": "1.0.2",
+    "License": "GPL-2.0-or-later",
+    "EnabledByDefault": false
+  },
+  "X-KDE-ConfigModule": "scarletpointer_config"
+}

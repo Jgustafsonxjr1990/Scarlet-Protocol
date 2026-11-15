@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kcfg SYSTEM "kcfg.xsd">
+<kcfg>
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="accentColor" type="Color"><default>#E41951</default></entry>
+    <entry name="cpuSensor" type="String"><default>cpu/all/usage</default></entry>
+    <entry name="memorySensor" type="String"><default>memory/physical/usedPercent</default></entry>
+    <entry name="gpuSensor" type="String"><default></default></entry>
+    <entry name="temperatureSensor" type="String"><default></default></entry>
+    <entry name="networkSensor" type="String"><default></default></entry>
+    <entry name="showGpu" type="Bool"><default>true</default></entry>
+    <entry name="showTemperature" type="Bool"><default>true</default></entry>
+    <entry name="showNetwork" type="Bool"><default>true</default></entry>
+    <entry name="showFocus" type="Bool"><default>true</default></entry>
+    <entry name="focusMinutes" type="Int"><default>25</default></entry>
+  </group>
+</kcfg>

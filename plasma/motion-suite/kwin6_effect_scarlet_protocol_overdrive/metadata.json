@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "KWin/Effect",
+  "KPlugin": {
+    "Id": "kwin6_effect_scarlet_protocol_overdrive",
+    "Name": "Scarlet Protocol — Overdrive",
+    "Description": "Expand and restore windows with a scarlet horizontal energy sweep",
+    "Category": "Appearance",
+    "Icon": "preferences-system-windows-effect-scale",
+    "License": "MIT",
+    "Version": "1.0.0",
+    "EnabledByDefault": false,
+    "Authors": [{"Name": "Scarlet Protocol"}]
+  },
+  "X-KDE-Ordering": 60,
+  "X-KWin-Exclusive-Category": "maximize",
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js"
+}

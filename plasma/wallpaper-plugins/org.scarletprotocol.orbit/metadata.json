@@ -1,0 +1,5 @@
+{
+  "KPackageStructure":"Plasma/Wallpaper",
+  "X-Plasma-API-Minimum-Version":"6.0",
+  "KPlugin":{"Id":"org.scarletprotocol.orbit","Name":"Scarlet Protocol — Orbit Dial","Description":"A local clock with independent hour and minute rings","Icon":"clock","License":"CC0-1.0","Version":"1.0.0","Authors":[{"Name":"Scarlet Protocol"}]}
+}

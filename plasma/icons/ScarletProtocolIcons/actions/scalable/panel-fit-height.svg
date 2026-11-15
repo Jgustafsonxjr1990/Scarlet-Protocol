@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" width="22" height="22" version="1.1" id="svg7" ns1:docname="zoom-fit-height.svg" ns2:version="1.2.2 (b0a8486541, 2022-12-01)" color="#ff668b">
+  <defs id="defs11" />
+  <namedview id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="35.136364" ns2:cx="9.4773609" ns2:cy="10.98577" ns2:window-width="1920" ns2:window-height="1011" ns2:window-x="0" ns2:window-y="0" ns2:window-maximized="1" ns2:current-layer="svg7" />
+  <style type="text/css" id="current-color-scheme">.ColorScheme-Background { color: #27141f; } .ColorScheme-ButtonText { color: #27141f; } .ColorScheme-Highlight { color: #ff668b; } .ColorScheme-Text { color: #ff668b; } </style>
+  <g id="zoom-fit-height" transform="translate(-252.53572,-365.50504)">
+    <path ns2:connector-curvature="0" id="path4246" d="m 253.5232,366.50504 v 1 h 10 10 v -1 z m 10,1 -3,3 h 2 v 3.1875 c -1.15834,0.41552 -2,1.51119 -2,2.8125 0,1.30132 0.84166,2.39699 2,2.8125 v 3.1875 h -2 l 3,3 3,-3 h -2 v -3.1875 c 1.15835,-0.41551 2,-1.51118 2,-2.8125 0,-1.30131 -0.84165,-2.39698 -2,-2.8125 v -3.1875 h 2 z m 0,18 h -10 v 1 h 20 v -1 z m 0,-11 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10456,0 -2,-0.89543 -2,-2 0,-1.10457 0.89544,-2 2,-2 z" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text" />
+    <circle transform="translate(252.5232,365.50504)" id="path3044" style="fill:currentColor;fill-opacity:1;stroke:none" cx="11.012515" cy="11.000004" r="1" class="ColorScheme-Text" />
+    <rect transform="translate(252.5232,365.50504)" y="4e-06" x="0.012515" height="22" width="22" id="rect3046" style="fill:#ff668b;fill-opacity:0;stroke:none" />
+  </g>
+</svg>

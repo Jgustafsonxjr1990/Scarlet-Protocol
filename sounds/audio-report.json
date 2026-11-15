@@ -1,0 +1,821 @@
+[
+  {
+    "edition": "protocol",
+    "cue": "desktop-login",
+    "duration": 1.7,
+    "peak_dbfs": -6.02,
+    "rms_dbfs": -19.07
+  },
+  {
+    "edition": "protocol",
+    "cue": "desktop-logout",
+    "duration": 0.87,
+    "peak_dbfs": -7.33,
+    "rms_dbfs": -18.96
+  },
+  {
+    "edition": "protocol",
+    "cue": "system-shutdown",
+    "duration": 0.87,
+    "peak_dbfs": -7.33,
+    "rms_dbfs": -18.8
+  },
+  {
+    "edition": "protocol",
+    "cue": "service-login",
+    "duration": 0.325,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -21.03
+  },
+  {
+    "edition": "protocol",
+    "cue": "service-logout",
+    "duration": 0.325,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -21.67
+  },
+  {
+    "edition": "protocol",
+    "cue": "button-pressed",
+    "duration": 0.145,
+    "peak_dbfs": -12.77,
+    "rms_dbfs": -28.34
+  },
+  {
+    "edition": "protocol",
+    "cue": "button-released",
+    "duration": 0.145,
+    "peak_dbfs": -12.77,
+    "rms_dbfs": -27.57
+  },
+  {
+    "edition": "protocol",
+    "cue": "button-pressed-modifier",
+    "duration": 0.145,
+    "peak_dbfs": -12.77,
+    "rms_dbfs": -27.97
+  },
+  {
+    "edition": "protocol",
+    "cue": "menu-click",
+    "duration": 0.145,
+    "peak_dbfs": -12.77,
+    "rms_dbfs": -28.13
+  },
+  {
+    "edition": "protocol",
+    "cue": "menu-popup",
+    "duration": 0.235,
+    "peak_dbfs": -12.77,
+    "rms_dbfs": -23.84
+  },
+  {
+    "edition": "protocol",
+    "cue": "window-open",
+    "duration": 0.317,
+    "peak_dbfs": -10.75,
+    "rms_dbfs": -22.08
+  },
+  {
+    "edition": "protocol",
+    "cue": "window-close",
+    "duration": 0.317,
+    "peak_dbfs": -10.75,
+    "rms_dbfs": -23.86
+  },
+  {
+    "edition": "protocol",
+    "cue": "window-minimized",
+    "duration": 0.317,
+    "peak_dbfs": -10.75,
+    "rms_dbfs": -24.05
+  },
+  {
+    "edition": "protocol",
+    "cue": "window-maximized",
+    "duration": 0.356,
+    "peak_dbfs": -10.75,
+    "rms_dbfs": -23.0
+  },
+  {
+    "edition": "protocol",
+    "cue": "window-unminimized",
+    "duration": 0.317,
+    "peak_dbfs": -10.75,
+    "rms_dbfs": -22.19
+  },
+  {
+    "edition": "protocol",
+    "cue": "audio-volume-change",
+    "duration": 0.145,
+    "peak_dbfs": -12.77,
+    "rms_dbfs": -28.0
+  },
+  {
+    "edition": "protocol",
+    "cue": "dialog-information",
+    "duration": 0.365,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -21.5
+  },
+  {
+    "edition": "protocol",
+    "cue": "dialog-question",
+    "duration": 0.365,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -20.9
+  },
+  {
+    "edition": "protocol",
+    "cue": "dialog-warning",
+    "duration": 0.49,
+    "peak_dbfs": -6.94,
+    "rms_dbfs": -19.73
+  },
+  {
+    "edition": "protocol",
+    "cue": "dialog-warning-auth",
+    "duration": 0.49,
+    "peak_dbfs": -6.94,
+    "rms_dbfs": -19.53
+  },
+  {
+    "edition": "protocol",
+    "cue": "dialog-error",
+    "duration": 0.49,
+    "peak_dbfs": -6.94,
+    "rms_dbfs": -16.24
+  },
+  {
+    "edition": "protocol",
+    "cue": "dialog-error-serious",
+    "duration": 0.85,
+    "peak_dbfs": -6.94,
+    "rms_dbfs": -17.25
+  },
+  {
+    "edition": "protocol",
+    "cue": "message",
+    "duration": 0.365,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -21.6
+  },
+  {
+    "edition": "protocol",
+    "cue": "message-new-instant",
+    "duration": 0.335,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -21.31
+  },
+  {
+    "edition": "protocol",
+    "cue": "message-new-email",
+    "duration": 0.49,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -20.63
+  },
+  {
+    "edition": "protocol",
+    "cue": "message-sent-instant",
+    "duration": 0.335,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -21.14
+  },
+  {
+    "edition": "protocol",
+    "cue": "message-attention",
+    "duration": 0.37,
+    "peak_dbfs": -6.94,
+    "rms_dbfs": -19.93
+  },
+  {
+    "edition": "protocol",
+    "cue": "power-plug",
+    "duration": 0.49,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -20.44
+  },
+  {
+    "edition": "protocol",
+    "cue": "power-unplug",
+    "duration": 0.49,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -21.29
+  },
+  {
+    "edition": "protocol",
+    "cue": "battery-low",
+    "duration": 0.49,
+    "peak_dbfs": -6.94,
+    "rms_dbfs": -18.63
+  },
+  {
+    "edition": "protocol",
+    "cue": "battery-caution",
+    "duration": 0.55,
+    "peak_dbfs": -6.94,
+    "rms_dbfs": -17.25
+  },
+  {
+    "edition": "protocol",
+    "cue": "device-added",
+    "duration": 0.335,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -22.34
+  },
+  {
+    "edition": "protocol",
+    "cue": "device-removed",
+    "duration": 0.335,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -21.92
+  },
+  {
+    "edition": "protocol",
+    "cue": "network-connectivity-established",
+    "duration": 0.49,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -20.63
+  },
+  {
+    "edition": "protocol",
+    "cue": "network-connectivity-lost",
+    "duration": 0.49,
+    "peak_dbfs": -6.94,
+    "rms_dbfs": -19.38
+  },
+  {
+    "edition": "protocol",
+    "cue": "outcome-success",
+    "duration": 0.49,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -21.11
+  },
+  {
+    "edition": "protocol",
+    "cue": "outcome-failure",
+    "duration": 0.49,
+    "peak_dbfs": -6.94,
+    "rms_dbfs": -17.3
+  },
+  {
+    "edition": "protocol",
+    "cue": "alarm-clock-elapsed",
+    "duration": 0.91,
+    "peak_dbfs": -7.33,
+    "rms_dbfs": -18.86
+  },
+  {
+    "edition": "protocol",
+    "cue": "trash-empty",
+    "duration": 0.235,
+    "peak_dbfs": -12.77,
+    "rms_dbfs": -25.16
+  },
+  {
+    "edition": "night",
+    "cue": "desktop-login",
+    "duration": 1.7,
+    "peak_dbfs": -11.06,
+    "rms_dbfs": -23.96
+  },
+  {
+    "edition": "night",
+    "cue": "desktop-logout",
+    "duration": 0.87,
+    "peak_dbfs": -12.37,
+    "rms_dbfs": -24.1
+  },
+  {
+    "edition": "night",
+    "cue": "system-shutdown",
+    "duration": 0.87,
+    "peak_dbfs": -12.37,
+    "rms_dbfs": -23.84
+  },
+  {
+    "edition": "night",
+    "cue": "service-login",
+    "duration": 0.325,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -26.71
+  },
+  {
+    "edition": "night",
+    "cue": "service-logout",
+    "duration": 0.325,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -27.34
+  },
+  {
+    "edition": "night",
+    "cue": "button-pressed",
+    "duration": 0.145,
+    "peak_dbfs": -17.8,
+    "rms_dbfs": -34.06
+  },
+  {
+    "edition": "night",
+    "cue": "button-released",
+    "duration": 0.145,
+    "peak_dbfs": -17.8,
+    "rms_dbfs": -32.98
+  },
+  {
+    "edition": "night",
+    "cue": "button-pressed-modifier",
+    "duration": 0.145,
+    "peak_dbfs": -17.8,
+    "rms_dbfs": -33.53
+  },
+  {
+    "edition": "night",
+    "cue": "menu-click",
+    "duration": 0.145,
+    "peak_dbfs": -17.8,
+    "rms_dbfs": -33.77
+  },
+  {
+    "edition": "night",
+    "cue": "menu-popup",
+    "duration": 0.235,
+    "peak_dbfs": -17.8,
+    "rms_dbfs": -28.53
+  },
+  {
+    "edition": "night",
+    "cue": "window-open",
+    "duration": 0.317,
+    "peak_dbfs": -15.79,
+    "rms_dbfs": -27.3
+  },
+  {
+    "edition": "night",
+    "cue": "window-close",
+    "duration": 0.317,
+    "peak_dbfs": -15.79,
+    "rms_dbfs": -28.95
+  },
+  {
+    "edition": "night",
+    "cue": "window-minimized",
+    "duration": 0.317,
+    "peak_dbfs": -15.79,
+    "rms_dbfs": -29.15
+  },
+  {
+    "edition": "night",
+    "cue": "window-maximized",
+    "duration": 0.356,
+    "peak_dbfs": -15.79,
+    "rms_dbfs": -28.19
+  },
+  {
+    "edition": "night",
+    "cue": "window-unminimized",
+    "duration": 0.317,
+    "peak_dbfs": -15.79,
+    "rms_dbfs": -27.37
+  },
+  {
+    "edition": "night",
+    "cue": "audio-volume-change",
+    "duration": 0.145,
+    "peak_dbfs": -17.8,
+    "rms_dbfs": -33.5
+  },
+  {
+    "edition": "night",
+    "cue": "dialog-information",
+    "duration": 0.365,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -26.67
+  },
+  {
+    "edition": "night",
+    "cue": "dialog-question",
+    "duration": 0.365,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -27.04
+  },
+  {
+    "edition": "night",
+    "cue": "dialog-warning",
+    "duration": 0.49,
+    "peak_dbfs": -11.97,
+    "rms_dbfs": -24.76
+  },
+  {
+    "edition": "night",
+    "cue": "dialog-warning-auth",
+    "duration": 0.49,
+    "peak_dbfs": -11.97,
+    "rms_dbfs": -25.36
+  },
+  {
+    "edition": "night",
+    "cue": "dialog-error",
+    "duration": 0.49,
+    "peak_dbfs": -11.97,
+    "rms_dbfs": -21.18
+  },
+  {
+    "edition": "night",
+    "cue": "dialog-error-serious",
+    "duration": 0.85,
+    "peak_dbfs": -11.97,
+    "rms_dbfs": -22.03
+  },
+  {
+    "edition": "night",
+    "cue": "message",
+    "duration": 0.365,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -27.27
+  },
+  {
+    "edition": "night",
+    "cue": "message-new-instant",
+    "duration": 0.335,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -27.36
+  },
+  {
+    "edition": "night",
+    "cue": "message-new-email",
+    "duration": 0.49,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -26.59
+  },
+  {
+    "edition": "night",
+    "cue": "message-sent-instant",
+    "duration": 0.335,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -27.01
+  },
+  {
+    "edition": "night",
+    "cue": "message-attention",
+    "duration": 0.37,
+    "peak_dbfs": -11.97,
+    "rms_dbfs": -25.87
+  },
+  {
+    "edition": "night",
+    "cue": "power-plug",
+    "duration": 0.49,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -25.81
+  },
+  {
+    "edition": "night",
+    "cue": "power-unplug",
+    "duration": 0.49,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -26.8
+  },
+  {
+    "edition": "night",
+    "cue": "battery-low",
+    "duration": 0.49,
+    "peak_dbfs": -11.97,
+    "rms_dbfs": -23.61
+  },
+  {
+    "edition": "night",
+    "cue": "battery-caution",
+    "duration": 0.55,
+    "peak_dbfs": -11.97,
+    "rms_dbfs": -22.12
+  },
+  {
+    "edition": "night",
+    "cue": "device-added",
+    "duration": 0.335,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -28.25
+  },
+  {
+    "edition": "night",
+    "cue": "device-removed",
+    "duration": 0.335,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -28.05
+  },
+  {
+    "edition": "night",
+    "cue": "network-connectivity-established",
+    "duration": 0.49,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -26.59
+  },
+  {
+    "edition": "night",
+    "cue": "network-connectivity-lost",
+    "duration": 0.49,
+    "peak_dbfs": -11.97,
+    "rms_dbfs": -24.69
+  },
+  {
+    "edition": "night",
+    "cue": "outcome-success",
+    "duration": 0.49,
+    "peak_dbfs": -13.44,
+    "rms_dbfs": -26.47
+  },
+  {
+    "edition": "night",
+    "cue": "outcome-failure",
+    "duration": 0.49,
+    "peak_dbfs": -11.97,
+    "rms_dbfs": -22.24
+  },
+  {
+    "edition": "night",
+    "cue": "alarm-clock-elapsed",
+    "duration": 0.91,
+    "peak_dbfs": -12.37,
+    "rms_dbfs": -24.55
+  },
+  {
+    "edition": "night",
+    "cue": "trash-empty",
+    "duration": 0.235,
+    "peak_dbfs": -17.8,
+    "rms_dbfs": -30.01
+  },
+  {
+    "edition": "overdrive",
+    "cue": "desktop-login",
+    "duration": 1.7,
+    "peak_dbfs": -5.68,
+    "rms_dbfs": -18.83
+  },
+  {
+    "edition": "overdrive",
+    "cue": "desktop-logout",
+    "duration": 0.87,
+    "peak_dbfs": -6.99,
+    "rms_dbfs": -18.49
+  },
+  {
+    "edition": "overdrive",
+    "cue": "system-shutdown",
+    "duration": 0.87,
+    "peak_dbfs": -6.99,
+    "rms_dbfs": -18.33
+  },
+  {
+    "edition": "overdrive",
+    "cue": "service-login",
+    "duration": 0.325,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -19.82
+  },
+  {
+    "edition": "overdrive",
+    "cue": "service-logout",
+    "duration": 0.325,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.19
+  },
+  {
+    "edition": "overdrive",
+    "cue": "button-pressed",
+    "duration": 0.145,
+    "peak_dbfs": -12.42,
+    "rms_dbfs": -26.75
+  },
+  {
+    "edition": "overdrive",
+    "cue": "button-released",
+    "duration": 0.145,
+    "peak_dbfs": -12.42,
+    "rms_dbfs": -26.48
+  },
+  {
+    "edition": "overdrive",
+    "cue": "button-pressed-modifier",
+    "duration": 0.145,
+    "peak_dbfs": -12.42,
+    "rms_dbfs": -26.46
+  },
+  {
+    "edition": "overdrive",
+    "cue": "menu-click",
+    "duration": 0.145,
+    "peak_dbfs": -12.42,
+    "rms_dbfs": -26.39
+  },
+  {
+    "edition": "overdrive",
+    "cue": "menu-popup",
+    "duration": 0.235,
+    "peak_dbfs": -12.42,
+    "rms_dbfs": -24.2
+  },
+  {
+    "edition": "overdrive",
+    "cue": "window-open",
+    "duration": 0.317,
+    "peak_dbfs": -10.41,
+    "rms_dbfs": -21.84
+  },
+  {
+    "edition": "overdrive",
+    "cue": "window-close",
+    "duration": 0.317,
+    "peak_dbfs": -10.41,
+    "rms_dbfs": -23.57
+  },
+  {
+    "edition": "overdrive",
+    "cue": "window-minimized",
+    "duration": 0.317,
+    "peak_dbfs": -10.41,
+    "rms_dbfs": -23.61
+  },
+  {
+    "edition": "overdrive",
+    "cue": "window-maximized",
+    "duration": 0.356,
+    "peak_dbfs": -10.41,
+    "rms_dbfs": -22.42
+  },
+  {
+    "edition": "overdrive",
+    "cue": "window-unminimized",
+    "duration": 0.317,
+    "peak_dbfs": -10.41,
+    "rms_dbfs": -21.81
+  },
+  {
+    "edition": "overdrive",
+    "cue": "audio-volume-change",
+    "duration": 0.145,
+    "peak_dbfs": -12.42,
+    "rms_dbfs": -26.19
+  },
+  {
+    "edition": "overdrive",
+    "cue": "dialog-information",
+    "duration": 0.365,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.95
+  },
+  {
+    "edition": "overdrive",
+    "cue": "dialog-question",
+    "duration": 0.365,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.31
+  },
+  {
+    "edition": "overdrive",
+    "cue": "dialog-warning",
+    "duration": 0.49,
+    "peak_dbfs": -6.6,
+    "rms_dbfs": -18.85
+  },
+  {
+    "edition": "overdrive",
+    "cue": "dialog-warning-auth",
+    "duration": 0.49,
+    "peak_dbfs": -6.6,
+    "rms_dbfs": -18.28
+  },
+  {
+    "edition": "overdrive",
+    "cue": "dialog-error",
+    "duration": 0.49,
+    "peak_dbfs": -6.6,
+    "rms_dbfs": -16.4
+  },
+  {
+    "edition": "overdrive",
+    "cue": "dialog-error-serious",
+    "duration": 0.85,
+    "peak_dbfs": -6.6,
+    "rms_dbfs": -17.49
+  },
+  {
+    "edition": "overdrive",
+    "cue": "message",
+    "duration": 0.365,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.8
+  },
+  {
+    "edition": "overdrive",
+    "cue": "message-new-instant",
+    "duration": 0.335,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.69
+  },
+  {
+    "edition": "overdrive",
+    "cue": "message-new-email",
+    "duration": 0.49,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -19.53
+  },
+  {
+    "edition": "overdrive",
+    "cue": "message-sent-instant",
+    "duration": 0.335,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.35
+  },
+  {
+    "edition": "overdrive",
+    "cue": "message-attention",
+    "duration": 0.37,
+    "peak_dbfs": -6.6,
+    "rms_dbfs": -18.96
+  },
+  {
+    "edition": "overdrive",
+    "cue": "power-plug",
+    "duration": 0.49,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.05
+  },
+  {
+    "edition": "overdrive",
+    "cue": "power-unplug",
+    "duration": 0.49,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.47
+  },
+  {
+    "edition": "overdrive",
+    "cue": "battery-low",
+    "duration": 0.49,
+    "peak_dbfs": -6.6,
+    "rms_dbfs": -18.48
+  },
+  {
+    "edition": "overdrive",
+    "cue": "battery-caution",
+    "duration": 0.55,
+    "peak_dbfs": -6.6,
+    "rms_dbfs": -17.25
+  },
+  {
+    "edition": "overdrive",
+    "cue": "device-added",
+    "duration": 0.335,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.94
+  },
+  {
+    "edition": "overdrive",
+    "cue": "device-removed",
+    "duration": 0.335,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -20.92
+  },
+  {
+    "edition": "overdrive",
+    "cue": "network-connectivity-established",
+    "duration": 0.49,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -19.53
+  },
+  {
+    "edition": "overdrive",
+    "cue": "network-connectivity-lost",
+    "duration": 0.49,
+    "peak_dbfs": -6.6,
+    "rms_dbfs": -18.71
+  },
+  {
+    "edition": "overdrive",
+    "cue": "outcome-success",
+    "duration": 0.49,
+    "peak_dbfs": -8.06,
+    "rms_dbfs": -21.04
+  },
+  {
+    "edition": "overdrive",
+    "cue": "outcome-failure",
+    "duration": 0.49,
+    "peak_dbfs": -6.6,
+    "rms_dbfs": -17.39
+  },
+  {
+    "edition": "overdrive",
+    "cue": "alarm-clock-elapsed",
+    "duration": 0.91,
+    "peak_dbfs": -6.99,
+    "rms_dbfs": -18.18
+  },
+  {
+    "edition": "overdrive",
+    "cue": "trash-empty",
+    "duration": 0.235,
+    "peak_dbfs": -12.42,
+    "rms_dbfs": -24.97
+  }
+]

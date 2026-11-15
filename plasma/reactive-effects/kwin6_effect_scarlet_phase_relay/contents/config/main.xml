@@ -1,0 +1,53 @@
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+  <kcfgfile name="" />
+  <group name="">
+    <entry name="Duration" type="Int">
+      <label>Transition duration (ms)</label>
+      <default>380</default>
+      <min>120</min>
+      <max>900</max>
+    </entry>
+    <entry name="Strength" type="Int">
+      <label>Effect strength (%)</label>
+      <default>85</default>
+      <min>0</min>
+      <max>100</max>
+    </entry>
+    <entry name="GlitchOffset" type="Int">
+      <label>Image tear width (px)</label>
+      <default>14</default>
+      <min>0</min>
+      <max>32</max>
+    </entry>
+    <entry name="BandHeight" type="Int">
+      <label>Glitch band height (px)</label>
+      <default>14</default>
+      <min>4</min>
+      <max>40</max>
+    </entry>
+    <entry name="ScanWidth" type="Int">
+      <label>Scarlet beam width (px)</label>
+      <default>32</default>
+      <min>8</min>
+      <max>80</max>
+    </entry>
+    <entry name="Red" type="Int">
+      <label>Scarlet color — red</label>
+      <default>255</default>
+      <min>0</min>
+      <max>255</max>
+    </entry>
+    <entry name="Green" type="Int">
+      <label>Scarlet color — green</label>
+      <default>32</default>
+      <min>0</min>
+      <max>255</max>
+    </entry>
+    <entry name="Blue" type="Int">
+      <label>Scarlet color — blue</label>
+      <default>86</default>
+      <min>0</min>
+      <max>255</max>
+    </entry>
+  </group>
+</kcfg>

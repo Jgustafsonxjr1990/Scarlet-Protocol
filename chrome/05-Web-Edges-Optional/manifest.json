@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Scarlet Protocol — Web Edges",
+  "version": "5.0.0",
+  "description": "Optional animated scarlet edge and hover illumination on ordinary web pages.",
+  "content_scripts": [{
+    "matches": ["http://*/*", "https://*/*"],
+    "js": ["edges.js"],
+    "css": ["hover.css"],
+    "run_at": "document_start"
+  }]
+}

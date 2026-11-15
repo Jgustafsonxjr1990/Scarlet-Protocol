@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" ns1:docname="pan-up-symbolic.svg" ns2:export-filename="/home/sam/dev/RESOURCES/gnome-icon-theme-symbolic/src/gnome-stencils.png" ns2:export-xdpi="90" ns2:export-ydpi="90" height="16" id="svg7384" version="1.1" ns2:version="0.48.5 r10040" width="16" color="#ff668b">
+  <metadata id="metadata90">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </ns4:Work>
+    </rdf:RDF>
+  </metadata>
+  <ns1:namedview ns2:bbox-nodes="false" ns2:bbox-paths="false" bordercolor="#666666" borderopacity="1" ns2:current-layer="layer12" ns2:cx="76.96276" ns2:cy="7.0403484" gridtolerance="10" ns2:guide-bbox="true" guidetolerance="10" id="namedview88" ns2:object-nodes="true" ns2:object-paths="false" objecttolerance="10" pagecolor="#3a3b39" ns2:pageopacity="1" ns2:pageshadow="2" showborder="false" showgrid="false" showguides="true" ns2:snap-bbox="true" ns2:snap-bbox-midpoints="false" ns2:snap-global="true" ns2:snap-grids="true" ns2:snap-nodes="true" ns2:snap-others="false" ns2:snap-to-guides="true" ns2:window-height="1014" ns2:window-maximized="1" ns2:window-width="1920" ns2:window-x="0" ns2:window-y="27" ns2:zoom="1">
+    <ns2:grid dotted="false" empspacing="2" enabled="true" id="grid4866" originx="-80px" originy="590.00001px" snapvisiblegridlinesonly="true" spacingx="1px" spacingy="1px" type="xygrid" visible="true" />
+  </ns1:namedview>
+  <title id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs id="defs7386" />
+  <g ns2:groupmode="layer" id="layer9" ns2:label="status" style="display:inline" transform="translate(-321.0002,-807.00001)" />
+  <g ns2:groupmode="layer" id="layer10" ns2:label="devices" style="display:inline" transform="translate(-321.0002,-807.00001)" />
+  <g ns2:groupmode="layer" id="layer11" ns2:label="apps" transform="translate(-321.0002,-807.00001)" />
+  <g ns2:groupmode="layer" id="layer13" ns2:label="places" style="display:inline" transform="translate(-321.0002,-807.00001)" />
+  <g ns2:groupmode="layer" id="layer14" ns2:label="mimetypes" transform="translate(-321.0002,-807.00001)" />
+  <g ns2:groupmode="layer" id="layer15" ns2:label="emblems" style="display:inline" transform="translate(-321.0002,-807.00001)" />
+  <g ns2:groupmode="layer" id="g71291" ns2:label="emotes" style="display:inline" transform="translate(-321.0002,-807.00001)" />
+  <g ns2:groupmode="layer" id="g4953" ns2:label="categories" style="display:inline" transform="translate(-321.0002,-807.00001)" />
+  <g ns2:groupmode="layer" id="layer12" ns2:label="actions" style="display:inline" transform="translate(-321.0002,-807.00001)">
+    <path ns2:connector-curvature="0" d="m 334.0002,817 -5,-5 -5,5 z" id="path6418" ns1:nodetypes="cccc" style="fill:#ff668b;fill-opacity:1;stroke:none" />
+    
+  </g>
+</svg>
